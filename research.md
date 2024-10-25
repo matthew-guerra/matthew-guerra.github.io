@@ -11,7 +11,6 @@ title: Research
 - Indigenous Sociology
 - Mixed Methods
 
--
 **Invited Presentations**
 -
 - W.E.B. Du Bois "Crossing Boundaries for Social Justice" Conference; May 2024
