@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Matthew works on research related to Indigenous identity, settler colonialism, and environmental conservation. As a mixed Indigenous person, he thinks about what factors strengthen Indigenous identity and how the field of conversation can better incorporate Indigenous knowledge and expertise. He has previously worked under the Alaskan Conservation Fund in collaboration with the Aleut Community of St. Paul Tribal Government as a research fellow for the Indigenous Sentinel Network. He holds a B.A. in Sociology from California State University, San Bernardino, and an M.S. in Sociology from the University of Oregon. He is continuing his PhD at the University of Oregon.
