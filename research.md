@@ -24,6 +24,7 @@ title: Research
 **Fire Resilience and Stewardship Futures**
 
 Co-Investigator, Spring 2024 - Present
+
 Increasing wildfire intensity calls for broader involvement in solutions and shifts within the fire management field to support diverse communities better. Despite this need, little research addresses how young people, ages 16-30, wish to contribute to fire resilience, and existing research lacks community focus and practical impact. This project partners with FireGen, a proven youth organization, to engage young people through surveys and listening circles to understand their visions for fire-resilient futures. Grounded in participatory and Indigenous research frameworks, the approach prioritizes youth voices and community priorities in shaping wildfire response.
 
 # Papers Under Review and In Progress
