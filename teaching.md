@@ -2,7 +2,7 @@
 layout: page
 title: Teaching and Mentoring
 ---
-## Teaching Experience
+
 ### Solo Instructor
 **University of Oregon**
 - SOC 445: Indigenous People of the United States (2024)
@@ -15,6 +15,6 @@ title: Teaching and Mentoring
 - SOC 312: Statistical Analysis (2024)
 - SOC 380: Introduction to Crime and Deviance (2024)
 
-## Mentoring
+### Mentoring
 Graduate Mentor, Department of Sociology, University of Oregon
 - 2023-24 Jasmine Penate: Indigenous EJ, Human Rights, Cultural Resistance
