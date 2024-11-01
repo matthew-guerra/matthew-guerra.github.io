@@ -18,3 +18,6 @@ title: Teaching and Mentoring
 ### Mentoring
 Graduate Mentor, Department of Sociology, University of Oregon
 - 2023-24 Jasmine Penate: Indigenous EJ, Human Rights, Cultural Resistance
+
+STEM Professional/Mentor, Letters to a Pre-Scientist Program, 2023 - Present
+Letters to a Pre-Scientist connects students to STEM professionals through snail mail to broaden students ’ awareness of what STEM professionals look like and do at work and inspire all students to explore a future in STEM.
