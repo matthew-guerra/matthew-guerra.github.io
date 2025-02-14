@@ -4,7 +4,7 @@ title: Research
 ---
 
 # Areas of Research
-- Race & Ethnicity
+- Multiracial Studies
 - Indigenous Identity
 - Environmental Sociology
 - Indigenous Sociology
