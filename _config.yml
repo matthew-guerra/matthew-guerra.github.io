@@ -5,7 +5,7 @@ description: "Matthew Guerra 2024" # This will show up in places like twitter, l
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "mguerra2@uoregon.edu"
-twitter_username: "matthew__guerra"
+#twitter_username: "matthew__guerra"
 github_username: "matthew-guerra"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
@@ -14,6 +14,7 @@ github_username: "matthew-guerra"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+substack_username: "criticalsociologist"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
