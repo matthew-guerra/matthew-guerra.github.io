@@ -18,7 +18,7 @@ title: Research
   - Present current research projects in addition to participating in a Q&A panel for undergraduates interested in graduate school
 - W.E.B. Du Bois "Crossing Boundaries for Social Justice" Conference; May 2024
   Brown University, Providence, RI
-  - Presented master’s paper
+  - Presented master’s paper, "Navigating Ancestry and Racial Classification Amongst Multiracial Indigenous Americans"
 - Settler-Colonialism, TribalCrit, and Native American Identity; May 2023
   - Invited to speak on Settler-Colonialism, TribalCrit, and Native American identity by a colleague for the department’s Critical Race 
  Theory class
