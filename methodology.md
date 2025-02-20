@@ -35,4 +35,4 @@ models.
 3. Conduct and interpret tests of statistical inference.
 4. Interpret OLS regression model results from real research, including dummy variables and
 interaction terms.
-5. Become familiar with performing analysis using the R and RStudio statistical software.
+5. Become familiar with performing analysis using R and Posit Cloud.
