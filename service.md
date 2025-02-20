@@ -8,8 +8,4 @@ University of Oregon/Sociology Dept.
 - Officer of Elections, Graduate Forum
   Fall 2022 - Present
 
-Graduate Teaching Fellows Federation
-- Department Steward
-  Fall 2022 - Spring 2024
-
  
