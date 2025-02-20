@@ -11,6 +11,8 @@ title: Research
 - Mixed Methods
 
 # Invited Presentations
+-Pacific Sociological Association Conference; March 27-31
+  San Francisco, CA
 - W.E.B. Du Bois "Crossing Boundaries for Social Justice" Conference; May 2024
   Brown University, Providence, RI
   - Presented master’s paper
