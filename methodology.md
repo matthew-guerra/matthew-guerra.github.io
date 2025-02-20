@@ -27,7 +27,7 @@ consume statistical information. Emphasis will be on an intuitive understanding 
 practical application.
 
 Learning Objectives:
-By the end of the term, you will learn how to:
+
 1. Describe the distribution of quantitative and categorical variables using graphical and numerical
 techniques.
 2. Describe the relationships between variables using two-way tables, mean differences, and regression
