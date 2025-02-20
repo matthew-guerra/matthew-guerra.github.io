@@ -16,13 +16,17 @@ General Tools: Github, R Studio
 **Teaching Undergraduate Statistics**
 -
 “Quantitative Methods in Sociology” 
-SOC 312, Department of Sociology, University of Oregon TA (Spring 2024) and Instructor of Record (Winter 2026)
+SOC 312, Department of Sociology, University of Oregon 
+
+TA (Spring 2024) and Instructor of Record (Winter 2026)
+
 Course Description: This course will teach the fundamentals of analyzing numerical data in a social science context. Students will learn
 effective ways of presenting informational summaries, the use of statistical inference from samples to populations,
 the linear model that forms the basis of much social science research, and the ability to think critically about how to
 consume statistical information. Emphasis will be on an intuitive understanding of statistical results, and their
 practical application.
-Learning Objectives
+
+Learning Objectives:
 By the end of the term, you will learn how to:
 1. Describe the distribution of quantitative and categorical variables using graphical and numerical
 techniques.
