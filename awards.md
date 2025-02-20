@@ -2,8 +2,8 @@
 layout: page
 title: Awards and Recognition
 ---
-- Environmental Justice Fellow, Fall 2024 -Spring 2025
-  - The EJ Fellowship ($500), awarded through the Student Sustainability Center and funded by the Just Futures Initiative at University of       Oregon, recognizes the awardee's impactful contributions to Indigenous Sociology. This work focuses on Indigenous identity, health, and      sovereignty, and amplifies Indigenous voices through community-based research, advancing this vital and emerging field.
+- Environmental Justice Fellow; Fall 2024 -Spring 2025
+  - The EJ Fellowship ($500), awarded through the Student Sustainability Center and funded by the Just Futures Initiative at the University of Oregon, recognizes the awardee's impactful contributions to Indigenous Sociology. This work focuses on Indigenous identity, health, and      sovereignty, and amplifies Indigenous voices through community-based research, advancing this vital and emerging field.
 - Critical Research in Sociology Award; Summer 2024
   - Research award (~$4,600) funded by the University of Oregon’s sociology department, the award is awarded after proposing a research         project that reveals, critiques, and challenges existing power relations and is directed toward changing and improving the world
 - Hispanic Association of Colleges and Universities (HACU) Conference Award; October 2021
