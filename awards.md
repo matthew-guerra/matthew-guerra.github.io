@@ -2,6 +2,10 @@
 layout: page
 title: Awards and Recognition
 ---
+- Critical Research on Power and Inequality Award
+  - Awarded the CRPI Research Grant ($2,500) to support a project investigating how Spanish colonial legacies shape
+Indigenous racial self-identification in the U.S., highlighting the influence of imperial histories on contemporary
+state classification systems
 - Environmental Justice Fellow; Fall 2024 -Spring 2025
   - The EJ Fellowship ($500), awarded through the Student Sustainability Center and funded by the Just Futures Initiative at the University of Oregon, recognizes the awardee's impactful contributions to Indigenous Sociology. This work focuses on Indigenous identity, health, and      sovereignty, and amplifies Indigenous voices through community-based research, advancing this vital and emerging field.
 - Critical Research in Sociology Award; Summer 2024
