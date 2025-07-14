@@ -17,6 +17,23 @@ Abstract:
 
 How does proximity to a Homeland shape the racial decision-making process for individuals with mixed Indigenous ancestry?  Can rural residency account for the influence of the Homeland variable?  Using data from the American Community Survey (ACS) from 2010 to 2020, this study examines the relationship between geographic location and Indigenous self-identification by estimating multinomial logistic regression models. Findings reveal that living in a Homeland or being of Hispanic Origin were the strongest predictors of Indigenous alone identification. These results reinforce previous research on the Homeland variable as a key predictor of Indigenous racial identification while expanding on its application to an adult multiracial population. By examining how structural and spatial factors shape racial decision-making, this study contributes to a broader discussion on Indigenous identity formation, multiraciality, and the role of place in racial decision-making
 
+**Food sovereignty and the Colonial legacy of the Alaska Commercial Company**
+
+Abstract:
+
+A historical analysis of the disruptions to Indigenous food systems in Alaska shows that racial
+capitalism and settler colonial expansion are key contributors to food apartheid and corporate
+monopolies, which continue to restrict Indigenous food sovereignty and access to traditional
+food systems. Companies like the Alaska Commercial Company (ACC) position themselves as
+essential providers; however, their presence perpetuates the colonial economic systems that
+originally displaced Indigenous food practices. Nevertheless, through the persistence of
+traditional practices, Indigenous communities continue to resist and maintain their ecological
+relationships despite centuries of disruption, demonstrating a commitment to collective
+continuance. Understanding the historical context of Russian and American imperialism in
+Alaska is crucial not only for recognizing how settler colonialism and racial capitalism shape
+contemporary food systems, but also for supporting Indigenous food sovereignty as an act of
+survival and self-determination.
+
 # Active Research Projects
 **Fire Resilience and Stewardship Futures**
 
