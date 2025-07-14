@@ -5,12 +5,14 @@ title: Teaching and Mentoring
 
 ### Solo Instructor
 **University of Oregon**
+- SOC 310: Social Theory (Summer 2025)
 - SOC 445: Indigenous People of the United States (Summer 2024)
   
 ### Teaching Assistant or Grader
 **University of Oregon**
 - SOC 204: Introduction to Sociology (2023,2024, 2025)
 - SOC 207: Social Inequality (2023)
+- SOC 301: American Society (2025)
 - SOC 304: Community, Environment, and Society (2022)
 - SOC 312: Statistical Analysis (2024)
 - SOC 380: Introduction to Crime and Deviance (2024)
