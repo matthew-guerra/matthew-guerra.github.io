@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Matthew I. Guerra Msc"
+title                    : "Matthew I. Guerra"
 title_separator          : "-"
 name                     : &name "Matthew I. Guerra"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Matthew I. Guerra"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Eugene, OR"
   employer         : "Univery of Oregon"
   uri              : # URL
   email            : "mguerra2@uoregon.edu" 
