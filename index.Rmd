@@ -2,7 +2,7 @@
 title: "Matthew Guerra"
 ---
 
-# First Section Title 
+# About 
 
 <img src="image_name.jpg">
 
@@ -16,12 +16,13 @@ Bacon, J.M., Kirsten Vinyeta, **Graham Ward**, and Ella Widmann. 2025. “Mappin
 
 - [Interactive Data Visualization](https://grahamward.shinyapps.io/big10/)
 
+# Research
 
-# Another Section
+# CV
 
 *[View curriculum vitae](CV.pdf)*
 
-# Another Section
+# Contact
 mguerra2@uoregon.edu\
-[University of Oregon](https://cas.uoregon.edu/directory/social-sciences/all/gfw)\
+[University of Oregon](https://cas.uoregon.edu/directory/profiles/all/mguerra2)\
 
