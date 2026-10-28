@@ -1,0 +1,27 @@
+---
+title: "Matthew Guerra"
+---
+
+# First Section Title 
+
+<img src="image_name.jpg">
+
+Write text or whatever in here.
+
+## Can put subheading within a section
+
+Example stuff:
+
+Bacon, J.M., Kirsten Vinyeta, **Graham Ward**, and Ella Widmann. 2025. “Mapping The Web of Solidarity: A Social Network Analysis of Shifting Tribal Engagement among the Big 10 Environmental Organizations in the United States”. *Environmental Sociology* 12 (3): 607-623. https://doi.org/10.1080/23251042.2025.2529613.
+
+- [Interactive Data Visualization](https://grahamward.shinyapps.io/big10/)
+
+
+# Another Section
+
+*[View curriculum vitae](CV.pdf)*
+
+# Another Section
+mguerra2@uoregon.edu\
+[University of Oregon](https://cas.uoregon.edu/directory/social-sciences/all/gfw)\
+

@@ -1,0 +1,7 @@
+name: "Your name"
+output_dir: 'docs'
+output: 
+  rmdformats::material: 
+    css: 'style.css'
+
+
