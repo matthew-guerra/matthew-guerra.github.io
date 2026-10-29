@@ -52,7 +52,7 @@ University of Oregon
 
 # CV
 
-[*View curriculum vitae*](CV.pdf)
+[*View curriculum vitae*](/assets/CV.pdf)
 
 # Contact
 
