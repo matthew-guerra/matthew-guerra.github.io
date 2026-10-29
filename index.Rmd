@@ -2,28 +2,23 @@
 title: "Matthew Guerra"
 ---
 
-# About 
-
-<img src="image_name.jpg">
-
-Write text or whatever in here.
-
-## Can put subheading within a section
-
-Example stuff:
-
-Bacon, J.M., Kirsten Vinyeta, **Graham Ward**, and Ella Widmann. 2025. “Mapping The Web of Solidarity: A Social Network Analysis of Shifting Tribal Engagement among the Big 10 Environmental Organizations in the United States”. *Environmental Sociology* 12 (3): 607-623. https://doi.org/10.1080/23251042.2025.2529613.
-
-- [Interactive Data Visualization](https://grahamward.shinyapps.io/big10/)
-
 # Research
 
+## Publications
+
+## In Preparation
+
+Jacob, Michelle M., **Matthew I. Guerra**, Graham F. Ward, Arlen Washines. “Tiichám Nátash Wa: Yakama Kinship and Knowledges for Decolonial Futures.” Manuscript in preparation for Radical History Review.
+
+Meredith Jacobson, Karissa Courtney, Annabelle Law, Ryan Reed, Kyle Trefny, **Matthew Guerra**, Timothy Ingalsbee, Heidi Huber-Stearns. "Engaging youth to shape fire stewardship and resilience workforce development" Manuscript under review at Fire Ecology.
+
+Jacob, Michelle M., Graham F. Ward, **Matthew I. Guerra**, and Angel Fernandez. “‘How to respect other people and all of Creation’: Analyzing the importance of Yakama literature for decolonial futures.” Manuscript under review at Women, Gender, and Families of Color.
 
 # CV
 
-*[View curriculum vitae](CV.pdf)*
+[*View curriculum vitae*](/files/Matthew Guerra CV.pdf)
 
 # Contact
-mguerra2@uoregon.edu\
-[University of Oregon](https://cas.uoregon.edu/directory/profiles/all/mguerra2)\
 
+[mguerra2\@uoregon.edu](mailto:mguerra2@uoregon.edu){.email}\
+[University of Oregon](https://cas.uoregon.edu/directory/profiles/all/mguerra2)\
