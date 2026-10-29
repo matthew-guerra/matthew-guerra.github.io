@@ -4,13 +4,13 @@ title: "Matthew Guerra"
 
 # Research
 
-I am a Latino, first-generation college student, and PhD candidate in the Sociology Department at the University of Oregon. My research focuses on understanding how settler colonialism and racial capitalism have interrupted Indigenous communities relationships to more-than-human kin, land, and their own communities. 
+I am a Latino, first-generation college student, and PhD candidate in the Sociology Department at the University of Oregon. My research focuses on understanding how settler colonialism and racial capitalism have interrupted Indigenous communities relationships to more-than-human kin, land, and their own communities.
 
 I previously worked as a research fellow with the Indigenous Sentinels Network for the tribal government of St. Paul Island. This work involved traveling across Alaska to support ecological monitoring efforts by other Alaskan Native communities. I have a B.A. in sociology from California State University, San Bernardino and a MS in sociology from the University of Oregon. I am also part of the FireGeneration Collaborative and Water Climate Trust, where I contribute to community-centered research.
 
 ## Publications
 
-Jacobson, Meredith, Annabelle Law, Ryan Reed, Kyle Trefny, Heidi R. Huber-Stearns, **Matthew Guerra**, Karissa Courtney, Ella Ramage, and Valentin Kostelnik. 2026. “Youth-Engaged Fire Futures: Learning from Listening Circles with Young People to Inform Fire Workforce Development.”  https://scholarsbank.uoregon.edu/items/e99467b5-3578-4f8c-85e0-aaefbdcca053
+Jacobson, Meredith, Annabelle Law, Ryan Reed, Kyle Trefny, Heidi R. Huber-Stearns, **Matthew Guerra**, Karissa Courtney, Ella Ramage, and Valentin Kostelnik. 2026. “Youth-Engaged Fire Futures: Learning from Listening Circles with Young People to Inform Fire Workforce Development.” <https://scholarsbank.uoregon.edu/items/e99467b5-3578-4f8c-85e0-aaefbdcca053>
 
 ## In Preparation
 
@@ -22,10 +22,37 @@ Jacobson, Meredith, Karissa Courtney, Annabelle Law, Ryan Reed, Kyle Trefny, **M
 
 Jacobson, Meredith, **Matthew I. Guerra**, Ayuthea LaPier.“Mobilizing a youth and Indigenous-led just transition of the wildland fire workforce” Manuscript in preparation for Environmental Justice
 
+# Teaching
+
+Instructor of Record\
+University of Oregon
+
+- SOC 310 Sociological Theory
+
+- SOC 312 Statistical Analysis in Sociology
+
+- SOC 445 Indigenous People of the United States
+
+Teaching Assistant\
+University of Oregon
+
+- SOC 204: Introduction to Sociology
+
+- SOC 207: Social Inequality
+
+- SOC 301: American Society
+
+- SOC 304: Community, Environment, and Society
+
+- SOC 312: Statistical Analysis
+
+- SOC 380: Introduction to Crime and Deviance
+
+- STAT 243Z Elementary Statistics I
 
 # CV
 
-[*View curriculum vitae*](Matthew Guerra CV.pdf)
+[*View curriculum vitae*](Matthew%20Guerra%20CV.pdf)
 
 # Contact
 
