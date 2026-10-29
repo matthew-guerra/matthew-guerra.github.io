@@ -50,10 +50,6 @@ University of Oregon
 
 - STAT 243Z Elementary Statistics I
 
-# CV
-
-[*View curriculum vitae*](/assets/CV.pdf)
-
 # Contact
 
 [mguerra2\@uoregon.edu](mailto:mguerra2@uoregon.edu){.email}\
